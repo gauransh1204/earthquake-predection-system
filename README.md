@@ -1,1 +1,1 @@
-# earthquake-predection-system
+# projectvibe
