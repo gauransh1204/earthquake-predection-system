@@ -23,5 +23,3 @@ Earthquake prediction is a challenging but critical task in disaster management.
   - Visualization: `Matplotlib`, `Seaborn`, `Plotly`, `Folium` (optional)
   - Geospatial (optional): `GeoPandas`
 
-## 📂 Project Structure
-
